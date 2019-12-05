@@ -2,7 +2,7 @@
  * ECE312FinalProject.c
  *
  * Created: 11/21/2019 2:09:37 PM
- * Author : hlin2
+ * Author : Howard Lin, Ejouan Agena, Yingtian Han
  */ 
 
 #define F_CPU 1000000 //The clock speed of our AVR
